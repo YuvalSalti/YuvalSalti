@@ -1,25 +1,24 @@
 <h1 align = "center">
   
   [comment]: <> (Hello)
-  <img src="https://readmetypingsvg.demolab.comfont=Fira+Code&duration=1000&center=true&multiline=true&repeat=False&width=450&height=60&lines=Hi%2C+I'm+Yuval!;I'm+a+EE+Student 👋🏻 👨🏻‍💻‍💻">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&center=true&multiline=true&repeat=False&width=450&height=60&lines=Hi%2C+I'm+Oren!;I'm+a+software+developer 👋🏻 👨🏻‍💻‍💻">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&center=true&multiline=true&repeat=False&width=450&height=60&lines=Hi%2C+I'm+Yuva!;I'm+a+software+developer 👋🏻 👨🏻‍💻‍💻">
 
-  <!-- Verilog -->
-  <img src="https://github.com/YuvalSalti/YuvalSalti/blob/main/verilog.svg?raw=true" alt="Verilog" width="50" height="50"/>
-  <!-- VHDL -->
-  <img src="https://github.com/YuvalSalti/YuvalSalti/blob/main/vhdl.svg?raw=true" alt="VHDL" width="50" height="50"/>  
-  <!-- Yosys -->
-  <img src="https://github.com/YuvalSalti/YuvalSalti/blob/main/yosys.png?raw=true" alt="Yosys" width="50" height="50"/>
-  <!-- C -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50"/>
-  <!-- Python -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-  <!-- MATLAB -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="MATLAB" width="50" height="50"/>
-  <!-- GitHub -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
-  <!-- Ubuntu -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg" alt="Ubuntu" width="50" height="50"/>
+   <!-- Verilog -->
+   <img src="https://github.com/YuvalSalti/YuvalSalti/blob/main/verilog.svg?raw=true" alt="Verilog" width="50" height="50"/>
+   <!-- VHDL -->
+   <img src="https://github.com/YuvalSalti/YuvalSalti/blob/main/vhdl.svg?raw=true" alt="VHDL" width="50" height="50"/>  
+   <!-- Yosys -->
+   <img src="https://github.com/YuvalSalti/YuvalSalti/blob/main/yosys.png?raw=true" alt="Yosys" width="50" height="50"/>
+   <!-- C -->
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50"/>
+   <!-- Python -->
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+   <!-- MATLAB -->
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="MATLAB" width="50" height="50"/>
+   <!-- GitHub -->
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
+   <!-- Ubuntu -->
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg" alt="Ubuntu" width="50" height="50"/>
   
 </h1>
 
