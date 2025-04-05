@@ -1,7 +1,7 @@
 <h1 align = "center">
   
   [comment]: <> (Hello)
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&center=true&multiline=true&repeat=True&width=450&height=60&lines=Hi%2C+I'm+Yuva!;I'm+a+EE+student 👋🏻 👨🏻‍💻‍💻">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&center=true&multiline=true&repeat=True&width=450&height=60&lines=Hi%2C+I'm+Yuval!;I'm+a+EE+student 👋🏻 👨🏻‍💻‍💻">
 
    <!-- Verilog -->
    <img src="https://github.com/YuvalSalti/YuvalSalti/blob/main/verilog.svg?raw=true" alt="Verilog" width="50" height="50"/>
